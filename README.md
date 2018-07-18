@@ -1,10 +1,11 @@
-Links de Refência
-https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29 - 17/11/2018 21:30 // dataset
-https://gsm672.wikispaces.com/Prediction+of+Breast+cancer - 10/10/2018 21:56 // descrição dos atributos do datasets
-https://www.omicsonline.org/computer-science-systems-biology.php - 10/10/2018 22:09 // Journal of Computer Science & Systems Biology
-https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization - 10/10/2018 22:12 // Feature Selection and Data Visualization
+﻿Links de Refência
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29 - 17/11/2017 21:30 // dataset
+https://gsm672.wikispaces.com/Prediction+of+Breast+cancer - 10/10/2017 21:56 // descrição dos atributos do datasets
+https://www.omicsonline.org/computer-science-systems-biology.php - 10/10/2017 22:09 // Journal of Computer Science & Systems Biology
+https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization - 10/10/2017 22:12 // Feature Selection and Data Visualization
 https://pt.wikipedia.org/wiki/An%C3%A1lise_de_dados
- 
+https://www.kaggle.com/sararht13/breast-cancer-analysis-and-diagnosis/notebook - 17/07/2018 
+14:30
 
 Attributes Description in English
 Sample code number: unique identificator.
